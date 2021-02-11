@@ -1,0 +1,11 @@
+CRYPTO,LINE_COUNT,MOST_RECENT_FILE,MOST_RECENT_ID
+BTC,556,data/twitter/BTC/2018-05-29 12-20-53~2018-05-29 12-26-11.csv,"                       ID                                         Text  \
+3991  1359455535255285769  RT : Don't trust banks. Always buy Bitcoin.   
+
+     UserName  UserFollowerCount  RetweetCount  Likes  \
+3991     Raul                 74             2      0   
+
+                           CreatedAt  compound    score  
+3991  Wed Feb 10 10:53:51 +0000 2021   -0.4023 -30.1725  "
+NEXO,2576,data/twitter/NEXO/2018-05-19 14-16-32~2018-05-29 11-32-24.csv,1001426024406634497
+ZIL,14917,data/twitter/ZIL/2018-05-19 13-38-38~2018-05-29 11-41-16.csv,1001428255268917250
